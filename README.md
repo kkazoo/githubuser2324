@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @githubuser2324
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @Twitter/discord- @githubuser Hydratic#6451
+- 👋 Hi, I’m kazoo // githubuser2324!
+- 📫 My discord is k_azoo
 
 <!---
 githubuser2324/githubuser2324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
